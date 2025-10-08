@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chen-Suyi
-- 👀 I’m interested in computer vision, with a focus on 3D point cloud registration, generative models, and datasets
-- 🌱 I’m currently a first-year Ph.D. student at Stony Brook University
+- 👀 I’m interested in AI for science and computer vision, with a focus on cruo-EM reconstruction, 3D point cloud registration, generative models, and synthetic datasets
+- 🌱 I’m currently a second-year Ph.D. student at Stony Brook University
 - 📫 How to reach me : [Suyi Chen - Home Page](https://chen-suyi.github.io)
 
 <!---
